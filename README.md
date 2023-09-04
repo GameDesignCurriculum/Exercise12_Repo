@@ -5,3 +5,9 @@
 4. - [ ] In GitHub Desktop, click commit. Make sure that your project files show up and number of files is reasonable (should **not** be 10's of thousands of files).
    a.	If you have thousands of changed files, return to step 2 to make sure you’ve named the gitignore file properly and that it is placed at the root of the Unity project not in its original location.  Ask for help if you are unsure.
 5. - [ ] Push your changes to the remote.
+
+
+In this exercise you will be implementing the following:
+6. - [ ] Add a game object with physics
+7. - [ ] Move the game object
+8. - [ ] Play with force
